@@ -1,3 +1,4 @@
+se alegra y le dice a la amapola que espera su cariñito como la guira espera el tambora
 # AY yo take a look
 ## I’m currently learning...
 - 🎓 For been a JavaScript Full-Stack developer on [**Undefined Academy**](https://undefined.academy/). 
